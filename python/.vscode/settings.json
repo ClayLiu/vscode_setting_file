@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "D:/ProgramData/Anaconda3/python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.languageServer": "Pylance",
+    "python.linting.pylintPath" : "D:\\ProgramData\\Anaconda3\\pkgs\\pylint-2.3.1-py37_0\\Scripts\\pylint.exe"
+}
